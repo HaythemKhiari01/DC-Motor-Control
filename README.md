@@ -34,7 +34,7 @@ dc_motor_control/
 ## Installation & Compilation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/HaythemKhiari/DC-Motor-Control.git
+   git clone https://github.com/HaythemKhiari01/DC-Motor-Control.git
    ```
 2. Open the project in **STM32CubeIDE**.
 3. Build and flash the firmware to the STM32F407 board.
